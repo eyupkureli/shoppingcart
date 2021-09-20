@@ -1,0 +1,168 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the snapshot 1`] = `
+<div>
+  <div
+    className="container"
+  >
+    <div
+      className="row"
+    >
+      <div>
+        <nav
+          className="navbar navbar-expand-md navbar-light bg-light"
+        >
+          <a
+            className="navbar-brand"
+            href="/"
+          >
+            Eyup Supermarket
+          </a>
+          <button
+            aria-label="Toggle navigation"
+            className="navbar-toggler"
+            onClick={[Function]}
+            type="button"
+          >
+            <span
+              className="navbar-toggler-icon"
+            />
+          </button>
+          <div
+            className="collapse navbar-collapse"
+            style={Object {}}
+          >
+            <ul
+              className="mr-auto navbar-nav"
+            />
+          </div>
+        </nav>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col-6"
+      >
+        <main>
+          <h1>
+            Products
+          </h1>
+          <div>
+            <div>
+              <div
+                className="card"
+              >
+                <div
+                  className="card-body"
+                >
+                  <h5
+                    className="card-title"
+                  >
+                    Tin of Beans
+                  </h5>
+                  <h6
+                    className="mb-2 text-muted card-subtitle"
+                  >
+                    £ 
+                    0.5
+                  </h6>
+                  <button
+                    aria-label={null}
+                    className="btn btn-success"
+                    data-testid="button"
+                    label="add your slot"
+                    onClick={[Function]}
+                    type="button"
+                  >
+                    Add Your Slot
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div
+                className="card"
+              >
+                <div
+                  className="card-body"
+                >
+                  <h5
+                    className="card-title"
+                  >
+                    Can of Cola
+                  </h5>
+                  <h6
+                    className="mb-2 text-muted card-subtitle"
+                  >
+                    £ 
+                    0.7
+                  </h6>
+                  <button
+                    aria-label={null}
+                    className="btn btn-success"
+                    data-testid="button"
+                    label="add your slot"
+                    onClick={[Function]}
+                    type="button"
+                  >
+                    Add Your Slot
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div
+                className="card"
+              >
+                <div
+                  className="card-body"
+                >
+                  <h5
+                    className="card-title"
+                  >
+                    Oranges
+                  </h5>
+                  <h6
+                    className="mb-2 text-muted card-subtitle"
+                  >
+                    £ 
+                    1.99
+                  </h6>
+                  <button
+                    aria-label={null}
+                    className="btn btn-success"
+                    data-testid="button"
+                    label="add your slot"
+                    onClick={[Function]}
+                    type="button"
+                  >
+                    Add Your Slot
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </main>
+      </div>
+      <div
+        className="col-6"
+      >
+        <aside>
+          <h1>
+            Your Slot
+          </h1>
+          <div>
+            <div>
+              <p>
+                There is no product...
+              </p>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </div>
+</div>
+`;
